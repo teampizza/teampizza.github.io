@@ -615,6 +615,14 @@ section img {
   max-width: 100%;
 }
 
+img {
+    max-width: 100%;
+    vertical-align: middle;
+		-webkit-box-shadow: 7px 6px 15px -1px rgba(0,0,0,0.75);
+		-moz-box-shadow: 7px 6px 15px -1px rgba(0,0,0,0.75);
+		box-shadow: 7px 6px 15px -1px rgba(0,0,0,0.75);
+}
+
 blockquote {
   border-left: 3px solid #ffcc00;
   margin: 0;
