@@ -101,6 +101,13 @@ video {
 }
 
 /*
+ * display padding for articles
+*/
+.page-content {
+		padding-top: 80px;
+}
+
+/*
  * Prevents modern browsers from displaying 'audio' without controls
  */
 audio:not([controls]) {

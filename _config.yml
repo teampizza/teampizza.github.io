@@ -1,0 +1,8 @@
+# Site settings
+title: Team Pizza
+titlejpn: チーム・ピザ
+email: 
+description: > # this means to ignore newlines
+descriptionjpn: > # 
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://teampizza.github.io/" # the base hostname & protocol for your 
